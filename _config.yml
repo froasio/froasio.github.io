@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: froasio/froasio.github.io
   instagram:
-  linkedin:
+  linkedin: ar.linkedin.com/in/froasio
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: federoasio
@@ -35,11 +35,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: "UA-60856030-1"
+google_analytics: UA-60856030-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: froasio.github.io
+url: http://froasio.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
