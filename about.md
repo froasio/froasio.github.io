@@ -12,4 +12,4 @@ To get more information about me and my career path you can visit my [LinkedIn p
 
 ### Contact me
 
-[federoasiol@gmail.com](mailto:federoasio@gmail.com)
+[federoasio@gmail.com](mailto:federoasio@gmail.com)
