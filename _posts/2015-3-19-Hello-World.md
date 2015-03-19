@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 ---
 
-Hello there! My name is Federico and I am Software Developer from Buenos Aires, Argentina.
+Hello there! My name is Federico and I am a Software Developer from Buenos Aires, Argentina.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
