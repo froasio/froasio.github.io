@@ -6,9 +6,13 @@ permalink: /about/
 
 My name is Federico Martin Roasio, I obtained my Electrical Engineer degree at the University of Buenos Aires in 2013 presenting a thesis on Integrated Navigation Systems for Unmanned Aerial Vehicles. I was awarded as the best graduated in Engineering from the University of Buenos Aires in 2013 by the National Academy of Engineering.
 
-I'm passionate about software and firmware development. I've worked developing software in many different fields including aerospace industry, petroleum industry, real state, digital marketing and education, among others. The key to success: focus to understand the business I am working for and how can I add value to it.
+I'm passionate about software and firmware development. I've worked developing software in many different fields including aerospace, real state, petroleum, digital marketing and education, among others. My key to success: focus to understand the business I am working for and the way I can add value to it.
 
-To get more information about me and my career path you can visit my [LinkedIn profile](http://linkedin/in/froasio).
+I also enjoy teaching a lot. I've been teaching assistant inEmbedded Systems, Real Time Operative Systems, Signal Processing and Electronic Circuits. many graduate and undergraduate courses, Algorithms and Programming, Embedded Systems, Real Time Operative Systems, Signal Processing and Electronic Circuits. Nowadays I am focused in teaching assistance of Algorithms and Programming for Electrical Engineering, an introductory programming course in C language.
+
+After having experienced the work life in a multinational company during 2014 I decided to come back to the exciting world of startups companies. Working in one of them most of the time and using my free time to build my own.
+
+To get more information about me and my career path you can visit my LinkedIn [profile](http://linkedin/in/froasio).
 
 ### Contact me
 
