@@ -5,6 +5,6 @@ title: Hello World!
 
 Hello there! My name is Federico and I am a Software Developer from Buenos Aires, Argentina.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This is my Jekyll based - Github hosted blog site. I plan to use this virtual place to share ideas and let people know me.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I hope see you around soon again!
