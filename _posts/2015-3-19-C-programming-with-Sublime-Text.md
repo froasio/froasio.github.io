@@ -3,7 +3,7 @@ layout: post
 title: C programming with Sublime Text
 ---
 
-{% highlight ruby lineos %}
+{% highlight ruby linenos %}
 def show
   @widget = Widget(params[:id])
   respond_to do |format|
