@@ -4,6 +4,12 @@
 	<script type="text/javascript">
 
 	    var disqus_shortname = '{{ site.disqus }}';
+	    // A unique identifier for each page where Disqus is present
+	    var disqus_identifier = '{{ page.id }}';
+    	// A unique title for each page where Disqus is present
+    	var disqus_title = '{{ page.title | replace: "'", "\\'" }}';
+    	// A unique URL for each page where Disqus is present
+    	var disqus_url = '{{ site.url }}{{ page.url }}';
 
 	    (function() {
 	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
