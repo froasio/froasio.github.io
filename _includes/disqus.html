@@ -9,7 +9,7 @@
     	// A unique title for each page where Disqus is present
     	var disqus_title = '{{ page.title | replace: "'", "\\'" }}';
     	// A unique URL for each page where Disqus is present
-    	var disqus_url = '{{ site.url }}{{ page.url }}';
+    	var disqus_url = '{{ site.baseurl }}{{ page.url }}';
 
 	    (function() {
 	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
