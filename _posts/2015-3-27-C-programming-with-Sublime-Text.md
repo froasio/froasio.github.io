@@ -81,9 +81,10 @@ In this case we have to create a custom compiling script as follows.
 
 {% highlight JSON linenos %}
 {
-	"cmd" : ["gcc $file_name -o ${file_base_name} && ./${file_base_name} -ansi -pedantic -Wall -lm"],
+	"cmd" : ["gcc $file_name -o ${file_base_name} -ansi -pedantic -Wall -lm"],
 	"selector" : "source.c",
-	"working_dir" : "$file_path"
+	"working_dir" : "$file_path",
+	"shell" : "true"
 }
 {% endhighlight %}
 
