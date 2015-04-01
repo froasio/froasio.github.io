@@ -73,6 +73,19 @@ Ready. If we put this files under the same folder, and we press _Ctrl+Shift+A_ w
 
 We can also run the program with a shortcut from Sublime. However, I prefer to run the code directly from a terminal as we can take advantage of the full functionality of the terminal.
 
-For a snippet of code like this, we can use a simpler compilation script, or maybe use Sublime default compilation system. However, when dealing with a bigger project I prefer to have a custom makefile.
+For a snippet of code like this, we can use a simpler compilation script, or maybe use Sublime default compilation system. Let's see how to do that.
+
+## Compiling a single file
+
+In this case we have to create a custom compiling script as follows.
+
+{% highlight JSON linenos %}
+{
+	"cmd" : ["gcc $file_name -o ${file_base_name} && ./${file_base_name} -ansi -pedantic -Wall -lm"],
+	"selector" : "source.c",
+	"working_dir" : "$file_path"
+}
+{% endhighlight %}
+
 
 _For the record, this article was written using Sublime Text 3_
