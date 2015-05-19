@@ -14,9 +14,7 @@ After having experienced the work life in a multinational company during 2014 I 
 
 To get more information about me and my career path you can visit my [LinkedIn profile](http://linkedin.com/in/froasio). In case you want a CV you can get it here:
 
-### CV
-
-[CV](https://github.com/froasio/CV/raw/master/CV_Medium/FedericoRoasio.pdf).
+### [CV](https://github.com/froasio/CV/raw/master/CV_Medium/FedericoRoasio.pdf).
 
 ### Contact me
 
