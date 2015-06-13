@@ -13,7 +13,7 @@ I also enjoy teaching a lot. I've been teaching assistant in many graduate and u
 After having experienced the work life in a multinational company during 2014 I decided to come back to the exciting world of startups companies. Working in one of them most of the time and using my free time to build my own.
 
 To get more information about me and my career path you can visit my [LinkedIn profile](http://linkedin.com/in/froasio). 
-### CV Download (English/[Spanish](https://github.com/froasio/CV/raw/master/CV_Medium/FedericoRoasio.pdf))
+### CV Download ([English](https://github.com/froasio/CV/raw/master/CV_English/FedericoRoasio.pdf)/[Spanish](https://github.com/froasio/CV/raw/master/CV_Medium/FedericoRoasio.pdf))
 
 ### Contact me
 
