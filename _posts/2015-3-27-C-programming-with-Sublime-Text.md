@@ -3,7 +3,7 @@ layout: post
 title: C programming with Sublime Text
 ---
 
-C is one of my favourite programming languages and Sublime Text one of my favourite text editors. However, I didn't used to code in C with Sublime, don't ask me why. So when I decided to combine them the first issue I faced was how to integrate makefiles to Sublime.
+C is one of my favourite programming languages and Sublime Text one of my favourite text editors. However, I didn't use to code in C with Sublime, don't ask me why. When I decided to combine them the first issue I faced was how to integrate makefiles to Sublime.
 
 As I like to trust on my own building enviroment I will write a custom build system. If we go to _Tools->Build System->New Build System..._, we can create a new build configuration. Configuration is made by means of a JSON file. Following the one we need to use a makefile to compile our code.
 
